@@ -1,0 +1,6 @@
+{
+  "name": "FR_OS Hex Vault Core Router & Telemetry Control Plane",
+  "description": "Next-generation network OS, JIT privilege lifecycle, Dynamic DNS sync engine, eBPF telemetry, and cryptographic audit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
